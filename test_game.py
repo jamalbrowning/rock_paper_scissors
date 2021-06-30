@@ -6,7 +6,7 @@ import main
 class TestPlay(unittest.TestCase):
     '''
     Rock = r , Paper = p , Scissors = s
-    Test for 
+    Test for combinations
     r/r , r/p , r/s
     s/s , s/p , s/s
     p/p , p/s, p/r
